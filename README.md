@@ -75,6 +75,4 @@ It reflects how modern data teams build scalable analytics platforms.
 
 ---
 
-## Author
 
-Manu Yadav
